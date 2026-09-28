@@ -39,6 +39,7 @@ Tujuan dari proyek ini adalah:
 ## 📊 Dataset
 
 Dataset yang digunakan adalah **APPLE_DISEASE_DATASET**.
+https://www.kaggle.com/datasets/hsmcaju/d-kap?utm_source=&select=APPLE_DISEASE_DATASET
 
 ### Jumlah Data
 
